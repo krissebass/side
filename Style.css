@@ -1,0 +1,39 @@
+body {
+    background-color: cadetblue;
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: blueviolet;
+}
+
+h2 {text-align: center;
+    color: dodgerblue;
+}
+
+p {
+    text-align: center;
+    color: lightblue;
+}
+
+.hobby {
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.bilde {
+    width: 200px;
+    border-radius: 50%;
+    border-width: 20px;
+    border-color: azure;
+    border-style: solid;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.interesse {
+    font-weight: bolder;
+}
