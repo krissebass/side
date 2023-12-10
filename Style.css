@@ -5,11 +5,11 @@ body {
 
 h1 {
     text-align: center;
-    color: blueviolet;
+    color: lightblue;
 }
 
 h2 {text-align: center;
-    color: dodgerblue;
+    color: darkblue;
 }
 
 p {
@@ -24,10 +24,10 @@ p {
 }
 
 .bilde {
-    width: 200em;
+    width: 200px;
     border-radius: 50%;
-    border-width: 5em;
-    border-color: azure;
+    border-width: 5px;
+    border-color: lightblue;
     border-style: solid;
     display: block;
     margin-left: auto;
@@ -37,3 +37,7 @@ p {
 .interesse {
     font-weight: bolder;
 }
+
+div {
+text-align: center;
+}   
