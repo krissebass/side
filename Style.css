@@ -26,7 +26,7 @@ p {
 .bilde {
     width: 200px;
     border-radius: 50%;
-    border-width: 20px;
+    border-width: 10px;
     border-color: azure;
     border-style: solid;
     display: block;
